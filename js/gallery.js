@@ -71,7 +71,7 @@
   function loadData() {
     const photos = SETTINGS.galleryPhotos || [];
     if (!photos.length) {
-      return [1,2,3,4,5,6,7,8].map((n) => ({
+      return [1,2,3,4,5,6].map((n) => ({
         id: `g${n}`,
         caption: 'Add a caption for this memory',
         src: null

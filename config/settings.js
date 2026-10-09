@@ -52,8 +52,6 @@ const GALLERY_PHOTOS = [
   { file: "img4.jpeg", caption: "Some people search for happiness, I found mine in you." },
   { file: "img5.jpeg", caption: "You turned my ordinary life into something beautiful." },
   { file: "img6.jpeg", caption: "My heart feels safest when it's with you." },
-  { file: "img7.jpeg", caption: "If I could relive a moment, I'd choose us every time." },
-  { file: "img8.jpeg", caption: "Still my favorite person, always. " },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
